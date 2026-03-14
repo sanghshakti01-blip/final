@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-spiritual",
+      "description": "A serene spiritual gathering with orange accents",
+      "imageUrl": "https://picsum.photos/seed/sewa1/1200/600",
+      "imageHint": "spiritual temple"
+    },
+    {
+      "id": "event-venue",
+      "description": "Large hall for spiritual discourse",
+      "imageUrl": "https://picsum.photos/seed/sewa2/800/500",
+      "imageHint": "grand hall"
+    },
+    {
+      "id": "cultural-dance",
+      "description": "Traditional cultural performance",
+      "imageUrl": "https://picsum.photos/seed/sewa3/600/400",
+      "imageHint": "cultural dance"
+    },
+    {
+      "id": "meditation",
+      "description": "Group meditation session",
+      "imageUrl": "https://picsum.photos/seed/sewa4/600/400",
+      "imageHint": "meditation group"
+    }
+  ]
+}
